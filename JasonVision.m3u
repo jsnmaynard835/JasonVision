@@ -228,8 +228,8 @@ https://video.detik.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNA.id" group-title="Berita" ch-number="37" tvg-logo="https://thumbor.prod.vidiocdn.com/UeT72lXpCHQ7pp5YCRA-eFlsajU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/49242c.png",CNA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.59 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6411&type=drm
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8?MixuePoris.m3u8
 
 #EXTINF:-1 tvg-id="AjwaTV.id" group-title="Religi" ch-number="38" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png",Ajwa TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.59 Mobile Safari/537.36
