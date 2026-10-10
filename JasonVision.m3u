@@ -151,7 +151,7 @@ https://tvratu.my.id/vid/index.mpd?id=12607&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-9182af2c55464157e24e33188696b63c/dash/dHYgTXUgQ2hhbm5lbA/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/dHYgTXUgQ2hhbm5lbA/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rodja.TV.id" group-title="Religi" ch-number="25" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png",Rodja TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.59 Mobile Safari/537.36
