@@ -5,208 +5,240 @@
 
 #EXTINF:-1 tvg-id="SCTV.id" ch-number="23" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sctv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sctvvidio
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sctv
 
 #EXTINF:-1 tvg-id="Indosiar.id" ch-number="24" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=indosiar
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvribanten
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=indosiar
 
 #EXTINF:-1 tvg-id="mOji.id" ch-number="35" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MOJI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=moji
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mojividio
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=moji
 
 #EXTINF:-1 tvg-id="MentariTV.id" ch-number="36" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MENTARI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mentaritv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=moji
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mentaritv
 
 #EXTINF:-1 tvg-id="KompasTV.id" ch-number="11" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",KOMPASTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=kompastv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sinpotv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=kompastv
 
 #EXTINF:-1 tvg-id="AjwaTV.id" ch-number="260" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",REPUBLIKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ajwatv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mentaritv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ajwatv
 
 #EXTINF:-1 tvg-id="SinpoTV.id" ch-number="14" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SIN PO tv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sinpotv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnbcindonesia
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sinpotv
 
 #EXTINF:-1 tvg-id="RTV.id" ch-number="25" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RTV HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rtv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=btv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rtv
 
 #EXTINF:-1 tvg-id="RTV.id" ch-number="41" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RTV HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rtvbekasi
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=btv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rtvbekasi
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" ch-number="12" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=btv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mdtv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=btv
 
 #EXTINF:-1 ch-number="33" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ctv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ctv
 
 #EXTINF:-1 ch-number="126" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",KTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ktv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ktv
 
 #EXTINF:-1 ch-number="250" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",LOKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=lokatv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=lokatv
 
 #EXTINF:-1 tvg-id="RCTI.id" ch-number="28" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rcti
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvri
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="MNCTV.id" ch-number="29" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mnctv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrijakarta
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="GTV.id" ch-number="30" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=gtv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriworld
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="iNews.id" ch-number="31" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",iNews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=inews
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrisport
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="MetroTV.id" ch-number="22" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",METRO TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=metrotv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=metrotvvidio
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=metrotv
 
 #EXTINF:-1 ch-number="38" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MAGNA CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=magnachannel
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=nusantaratv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=magnachannel
 
 #EXTINF:-1 tvg-id="MetroTV.id" ch-number="39" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BN CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=bnchannel
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=bnchannel
 
 #EXTINF:-1 tvg-id="JawaPosTV.id" ch-number="45" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Jawapos TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=jawapostv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvone
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=jawapostv
 
 #EXTINF:-1 tvg-id="GarudaTV.id" ch-number="17" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GARUDA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=garudatv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=antv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=garudatv
 
 #EXTINF:-1 ch-number="44" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SMILE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=smiletv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=smiletv
 
 #EXTINF:-1 ch-number="259" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",UGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ugtv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ugtv
 
 #EXTINF:-1 tvg-id="JakTV.id" ch-number="285" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",JAK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=jaktv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=sctv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=jaktv
 
 #EXTINF:-1 tvg-id="tvOne.id" ch-number="27" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvone
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvonevidio
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvone
 
 #EXTINF:-1 tvg-id="ANTV.id" ch-number="26" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=antv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=kompastv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=antv
 
 #EXTINF:-1 tvg-id="VTV.id" ch-number="37" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",VTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=vtv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=vtv
 
 #EXTINF:-1 ch-number="77" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",JAGANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=jagantaratv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=jagantaratv
 
 #EXTINF:-1 tvg-id="MDTV.id" ch-number="16" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mdtv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=metrotv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mdtv
 
 #EXTINF:-1 ch-number="291" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BERITA NASIONAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=beritanasionaltv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=beritanasionaltv
 
 #EXTINF:-1 ch-number="800" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",EWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ews
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ews
 
 #EXTINF:-1 tvg-id="TransTV.id" ch-number="20" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Trans TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=transtv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrijabar
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=transtv
 
 #EXTINF:-1 tvg-id="Trans7.id" ch-number="21" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=trans7
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=trans7visionplus
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=trans7
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" ch-number="19" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CNN INDONESIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnnindonesia
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=ctv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnnindonesia
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" ch-number="18" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",CNBC INDONESIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnbcindonesia
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnbcindonesiavideodetik
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnbcindonesia
 
 #EXTINF:-1 ch-number="801" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rodjatv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rtv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rodjatv
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" ch-number="32" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=nusantaratv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=trans7
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=nusantaratv
 
 #EXTINF:-1 tvg-id="TVRI.id" ch-number="1" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvri
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=garudatv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvri
 
 #EXTINF:-1 tvg-id="TVRI.id" ch-number="2" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI DKI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrijakarta
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrijakarta
 
 #EXTINF:-1 ch-number="3" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriworld
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rcti
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriworld
 
 #EXTINF:-1 ch-number="4" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrisport
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrisport
 
 #EXTINF:-1 tvg-id="TVRI.id" ch-number="6" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI Jawa Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrijabar
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvrijabar
 
 #EXTINF:-1 tvg-id="TVRI.id" ch-number="9" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TVRI BANTEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvribanten
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvribanten
 
 #EXTINF:-1 tvg-id="DAAITV.id" ch-number="258" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",DAAI tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=daaitv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=cnnindonesia
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=daaitv
 
 #EXTINF:-1 ch-number="255" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",tvMu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvmu
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvmu
 
 #EXTINF:-1 ch-number="88" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Stara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=staratv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=staratv
 
 #EXTINF:-1 ch-number="252" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",ELSHINTA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=elshintatv
+https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=mnctv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=elshintatv
 
 #EXTINF:-1 ch-number="802" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=brtv
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=brtv
 
 #EXTINF:-1 ch-number="551" tvg-logo="https://www.iconsdb.com/icons/preview/white/radio-3-xxl.png",Radio TVRI 1 (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriradio1
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriradio1
 
 #EXTINF:-1 ch-number="552" tvg-logo="https://www.iconsdb.com/icons/preview/white/radio-3-xxl.png",Radio TVRI 2 (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriradio2
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=tvriradio2
 
 #EXTINF:-1 ch-number="554" tvg-logo="https://www.iconsdb.com/icons/preview/white/radio-3-xxl.png",RRI Radio Pro 2 (Test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22021211RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
-https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rripro2
+##https://malaysiastreamingtv.my.id/jodohnya/index.m3u8?id=rripro2
