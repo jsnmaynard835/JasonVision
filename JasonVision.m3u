@@ -5,28 +5,31 @@
 
 #EXTINF:-1 tvg-id="RCTI.id" group-title="TV Nasional" ch-number="1" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/rcti.m3u8
+https://bintangstreaming.my.id/000/rctiplus.php/.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="MNCTV.id" group-title="TV Nasional" ch-number="2" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png",MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34326.ts
+https://linier-mnctv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" group-title="TV Nasional" ch-number="3" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png",GTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34331.ts
+https://linier-gtv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id" group-title="TV Nasional" ch-number="4" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",iNews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/inews-bkp/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" group-title="TV Nasional" ch-number="5" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",Trans TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -82,12 +85,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" group-title="TV Nasional" ch-number="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="TV Nasional" ch-number="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/kompas/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="TV Nasional" ch-number="15" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -97,17 +99,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" group-title="TV Nasional" ch-number="16" tvg-logo="https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/btv/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.id" group-title="TV Nasional" ch-number="17" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI.id" group-title="TV Nasional" ch-number="17" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI Nasional HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/tvri/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 
 #EXTINF:-1 tvg-id="SinpoTV.id" group-title="Berita" ch-number="18" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png",Sin Po TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -117,10 +117,9 @@ https://vidsemar.pages.dev/terraluna3/19046.mpd
 
 #EXTINF:-1 tvg-id="DAAITV.id" group-title="TV Nasional" ch-number="19" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png",DAAI TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/daaitv/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" group-title="TV Nasional" ch-number="20" tvg-logo="https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png",Berita Satu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -134,26 +133,25 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidsemar.pages.dev/terraluna3/875.mpd
 
-#EXTINF:-1 tvg-id="JakTV.id" group-title="TV Nasional" ch-number="22" tvg-logo="https://thumbor.prod.vidiocdn.com/10BeR50GodPzL51K7estpRcJqgA=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png",JAKTV
+#EXTINF:-1 tvg-id="JakTV.id" group-title="TV Nasional" ch-number="22" tvg-logo="https://thumbor.prod.vidiocdn.com/10BeR50GodPzL51K7estpRcJqgA=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png",JAKTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/jaktv/index.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8
 
 #EXTINF:-1 tvg-id="DMITV.id" group-title="Religi" ch-number="23" tvg-logo="https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png",DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/dmi/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/dmi/index.m3u8
 
 #EXTINF:-1 tvg-id="Muhammadiyah.TV.id" group-title="Religi" ch-number="24" tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png",tvMu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/tvmu/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/tvmu/index.m3u8
 
 #EXTINF:-1 tvg-id="Rodja.TV.id" group-title="Religi" ch-number="25" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png",Rodja TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -184,7 +182,7 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/chunklist_w872216397.
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/hanacaraka/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hanacaraka/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRIWorld.in" group-title="Berita" ch-number="30" tvg-logo="https://images.indihometv.com/assets/imageCir_TVRI-World-CL-180x180_2025_10_30_15_47_45.png",TVRI World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -209,21 +207,20 @@ https://vidsemar.pages.dev/terraluna3/8237.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/jtv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/jtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="TV Nasional" ch-number="34" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_bandungtv_small1.png",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/bandungtv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/bandungtv/index.m3u8
 
-#EXTINF:-1 tvg-id="CNA.id" group-title="Berita" ch-number="35" tvg-logo="https://thumbor.prod.vidiocdn.com/UeT72lXpCHQ7pp5YCRA-eFlsajU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/49242c.png",CNA
+#EXTINF:-1 tvg-id="CNA.id" group-title="Berita" ch-number="35" tvg-logo="https://thumbor.prod.vidiocdn.com/UeT72lXpCHQ7pp5YCRA-eFlsajU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/49242c.png",CNA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/cna/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="Magna.TV.id" group-title="Hiburan" ch-number="36" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg",Magna Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -245,94 +242,88 @@ https://video.detik.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranAlKareem.id" group-title="Religi" ch-number="39" tvg-logo="https://thumbor.prod.vidiocdn.com/MBL6RJmC3YxGllDHfkl-3tOYjts=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png",Al Quran Al Kareem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/alquran/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="KidsTV.id" group-title="Anak-anak" ch-number="40" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/kidstv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kidstv/index.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.id" group-title="Berita" ch-number="41" tvg-logo="https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png",DW English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/dwtv/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.id" group-title="Berita" ch-number="42" tvg-logo="https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.id" group-title="Berita" ch-number="42" tvg-logo="https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png",NHK World Japan HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/nhkworld/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" group-title="Berita" ch-number="43" tvg-logo="https://thumbor.prod.vidiocdn.com/ylPI-fG-She_OlfbH8KWncdsDe8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png",Al Jazeera English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/aljazeera/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
 
-#EXTINF:-1 tvg-id="Arirang.id" group-title="Hiburan" ch-number="44" tvg-logo="https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png",Arirang
+#EXTINF:-1 tvg-id="Arirang.id" group-title="Hiburan" ch-number="44" tvg-logo="https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png",Arirang HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/arirang/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="Euronews.id" group-title="Berita" ch-number="45" tvg-logo="https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png",Euronews
+#EXTINF:-1 tvg-id="Euronews.id" group-title="Berita" ch-number="45" tvg-logo="https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png",Euronews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/euronews/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+http://136.239.158.30:6610/001/2/ch00000090990000001336/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001827&contentid=ch00000000000000001827&videoid=ch00000090990000001336&recommendtype=0&userid=1181735797657&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B9K7OQAC78AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155241199112&ispcode=55
 
-#EXTINF:-1 tvg-id="ABCAustralia.id" group-title="Berita" ch-number="46" tvg-logo="https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png",ABC Australia
+#EXTINF:-1 tvg-id="ABCAustralia.id" group-title="Berita" ch-number="46" tvg-logo="https://thumbor.prod.vidiocdn.com/7_vlXOuPe1jTvYQCMkgYv_KPjJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png",ABC Australia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/abcaus/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV5MondeAsie.id" group-title="Hiburan" ch-number="47" tvg-logo="https://thumbor.prod.vidiocdn.com/AW2JNvGveJR_JGN4sr8pcViIxNM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/138bad.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/tv5/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.id" group-title="Berita" ch-number="48" tvg-logo="https://thumbor.prod.vidiocdn.com/5383je3X8Fd8Z62ixQXN27SWrXY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22252/df871e.png",Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg.id" group-title="Berita" ch-number="48" tvg-logo="https://thumbor.prod.vidiocdn.com/5383je3X8Fd8Z62ixQXN27SWrXY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22252/df871e.png",Bloomberg HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/bloomberg/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="France24.id" group-title="Berita" ch-number="49" tvg-logo="https://images.indihometv.com/assets/88_FRANCE24_2025_03_17_14_59_11.png",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/france24/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-id="CelebritiesTV.id" group-title="Gaya hidup" ch-number="50" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-m.png",Celebrities TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/celebrities/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/celebrities/index.m3u8
 
 #EXTINF:-1 tvg-id="KIX.id" group-title="Hiburan" ch-number="51" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://proxy-v.rctiplus.id/live/ios/kix/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kix/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.id" group-title="Olahraga" ch-number="52" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png",beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
