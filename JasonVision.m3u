@@ -166,7 +166,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w650265888.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id" group-title="TV Nasional" ch-number="27" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.59 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18162/res=1080p/file/stream.mpd?hdntl=exp=1795536934~acl=%2fstream%2f18162%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f18162%2ffile%2f*%2faac%2f*!%2fstream%2f18162%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f18162%2ffile%2f*%2f*-720p%2f*!%2fstream%2f18162%2ffile%2f*%2f*-480p%2f*!%2fstream%2f18162%2ffile%2f*%2f*-360p%2f*~id=225164171~data=hdntl~hmac=0b041cacc2b101f4a7bfe5b6720e1318ecb0014375e4f3447a48875a966e652e
@@ -254,7 +254,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 https://dsgtq5sngxkde.cloudfront.net/kidstv/index.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.id" group-title="Berita" ch-number="41" tvg-logo="https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png",DW English HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A135F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.59 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/5075/res=1080p/start=1795522380/file/dvr-stream.mpd?hdntl=exp=1795536979~acl=%2fstream%2f5075%2fres%3d1080p%2fstart%3d1795522380%2ffile%2fdvr-stream.mpd!%2fstream%2f5075%2ffile%2f*%2faac%2f*!%2fstream%2f5075%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f5075%2ffile%2f*%2f*-720p%2f*!%2fstream%2f5075%2ffile%2f*%2f*-480p%2f*!%2fstream%2f5075%2ffile%2f*%2f*-360p%2f*~id=225164171~data=hdntl~hmac=574e0f8b68c94ffb4b106e86c44dc0aa3dcd6d4a7e207663affb0f29286d6b00
