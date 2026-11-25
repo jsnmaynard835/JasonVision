@@ -169,8 +169,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w650265888.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" group-title="TV Nasional" ch-number="27" tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png",Garuda TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18162/res=1080p/file/stream.mpd?hdntl=exp=1795606265~acl=%2fstream%2f18162%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f18162%2ffile%2f*%2faac%2f*!%2fstream%2f18162%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f18162%2ffile%2f*%2f*-720p%2f*!%2fstream%2f18162%2ffile%2f*%2f*-480p%2f*!%2fstream%2f18162%2ffile%2f*%2f*-360p%2f*~id=225164171~data=hdntl~hmac=6422b32a1c7678e6cdf1f7a85132dc43cad63c6b644e376e7fe62fab4c7eaa52
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="JawaPosTV.id" group-title="TV Nasional" ch-number="28" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",Jawa Pos TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
@@ -257,8 +257,8 @@ https://dsgtq5sngxkde.cloudfront.net/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.id" group-title="Berita" ch-number="41" tvg-logo="https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png",DW English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/5075/res=1080p/start=1795590900/file/dvr-stream.mpd?hdntl=exp=1795606296~acl=%2fstream%2f5075%2fres%3d1080p%2fstart%3d1795590900%2ffile%2fdvr-stream.mpd!%2fstream%2f5075%2ffile%2f*%2faac%2f*!%2fstream%2f5075%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f5075%2ffile%2f*%2f*-720p%2f*!%2fstream%2f5075%2ffile%2f*%2f*-480p%2f*!%2fstream%2f5075%2ffile%2f*%2f*-360p%2f*~id=225164171~data=hdntl~hmac=6c59427466b1181b20e9ff00a45e801abd3de8e8a0a5e5035d76e6b3807895b6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.id" group-title="Berita" ch-number="42" tvg-logo="https://thumbor.prod.vidiocdn.com/zxr-mrOWStozeCuL4GoW56c0JBc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png",NHK World Japan HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
