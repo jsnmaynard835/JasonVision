@@ -107,8 +107,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="TV Nasional" ch-number="17" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI Nasional HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/6441/res=1080p/file/stream.mpd?hdntl=exp=1795876319~acl=%2fstream%2f6441%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f6441%2ffile%2f*%2faac%2f*!%2fstream%2f6441%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f6441%2ffile%2f*%2f*-720p%2f*!%2fstream%2f6441%2ffile%2f*%2f*-480p%2f*!%2fstream%2f6441%2ffile%2f*%2f*-360p%2f*~id=225164171~data=hdntl~hmac=d6772e392c5251174eca36799b83a5746feb988f20ebf43ed57fd297db098b97
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
 
 #EXTINF:-1 tvg-id="SinpoTV.id" group-title="Berita" ch-number="18" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png",Sin Po TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
