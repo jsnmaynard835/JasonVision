@@ -89,8 +89,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="TV Nasional" ch-number="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/874/res=1080p/file/stream.mpd?hdntl=exp=1795869462~acl=%2fstream%2f874%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f874%2ffile%2f*%2faac%2f*!%2fstream%2f874%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f874%2ffile%2f*%2f*-720p%2f*!%2fstream%2f874%2ffile%2f*%2f*-480p%2f*!%2fstream%2f874%2ffile%2f*%2f*-360p%2f*~id=237843969~data=hdntl~hmac=627cb689bae3acf79d453b957b53c1e9b20b274adcd5c58ce3f2383249cecab6
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="TV Nasional" ch-number="15" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23021RAA2Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
